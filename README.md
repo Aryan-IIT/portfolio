@@ -4,8 +4,7 @@
 
 I'm currently deeply invested in machine learning, data science and analytics. I am an Artificial Intelligence Major at the Indian Institute of Technology, Gandhinagar. 
 
-I like to read, write and explore science, technology and philosophy. I spent my summer break as a Data Science Intern at [Mobileware Technologies](https://mobilewaretech.com/).
-Presently, I am serving as the Finance and Admin Coordinator at my college’s Technical Summit, Amalthea. I enjoy playing the drums and swimming in my free time.
+I like to read, write and explore science, technology and philosophy. I spent my summer break as a Data Science Intern at [Mobileware Technologies](https://mobilewaretech.com/). Presently, I am serving as the Finance and Admin Coordinator at my college’s Technical Summit, Amalthea. I enjoy playing the drums and swimming in my free time.
 
 ## Work Experience
 
