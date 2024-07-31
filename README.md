@@ -19,8 +19,7 @@ I like to read, write, and explore science, technology, and philosophy. I spent 
 
 ### Data Narratives and Explorations
 [Project Link](https://github.com/Aryan-IIT/Data-Narratives-and-Explorations)
-
-**Probability, Statistics, and Data Visualizations | March 2024 - May 2024**
+Probability, Statistics, and Data Visualizations, March 2024 - May 2024
 
 * Developed proficiency in data visualization using Python libraries such as **Numpy, Pandas, Matplotlib, and Seaborn**.
 * Created various **2-D and 3-D graphs**, including scatter plots, bar plots, and histograms.
@@ -28,16 +27,14 @@ I like to read, write, and explore science, technology, and philosophy. I spent 
 
 ### Applied Probability on Python
 [Project Link](https://github.com/Aryan-IIT/ES-114-PSDV)
-
-**Course Project | Prof. Shanmuganathan Raman | IIT Gandhinagar | January 2024 - April 2024**
+Course Project, Prof. Shanmuganathan Raman, IIT Gandhinagar, January 2024 - April 2024
 
 * Applied probability concepts and principles in Python notebooks, including preliminary computer vision tasks like **Image Binarization and Histogram Matching**.
 * Utilized techniques such as **dimensionality reduction, PCA, and correlation coefficient calculation**.
 
 ### Laser Based Communication System
 [Project Link](https://github.com/Aryan-IIT/ES-116-Course-Project)
-
-**Course Project | Prof. Arup Lal Chakraborty | IIT Gandhinagar | February 2024 - April 2024**
+Course Project, Prof. Arup Lal Chakraborty, IIT Gandhinagar, February 2024 - April 2024
 
 * Developed a laser-based wireless communication system using LiFi principles.
 * Employed Arduino-based transmitter and receiver units for character encoding/decoding and a solar panel for light pulse detection.
@@ -45,8 +42,7 @@ I like to read, write, and explore science, technology, and philosophy. I spent 
 
 ### Motion Speak -- A glove-based solution for sign language interpretation
 [Project Link](https://drive.google.com/file/d/1XsixTzGGRKCGHqn-cSgvYlM2YRWCnKjZ/view?usp=sharing)
-
-**Course Project | Prof. Himanshu Shekhar | IIT Gandhinagar | August 2023 - Nov 2023**
+Course Project, Prof. Himanshu Shekhar, IIT Gandhinagar, August 2023 - Nov 2023
 
 * "Motion Speak" is a group endeavor presenting a prototypical solution for **basic American Sign Language interpretation** using **wearable sensor-based technology**.
 * Contributed to ideation, research, and led the overall product pitch.
@@ -54,8 +50,7 @@ I like to read, write, and explore science, technology, and philosophy. I spent 
 
 ### Commercial Hovercraft - A Computer-Aided Design Project
 [Project Link](https://youtu.be/BmLoMJDTwEM)
-
-**Course Project | Prof. Sameer Patel | IIT Gandhinagar | August 2023 - Nov 2023**
+Course Project, Prof. Sameer Patel, IIT Gandhinagar, August 2023 - Nov 2023
 
 * Utilized AutoCAD for the final model within a team of 10.
 * Leveraged skills from the ES 101 course for design, dimensioning, and project brief report of a commercial hovercraft built from scratch.
