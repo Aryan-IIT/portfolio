@@ -8,7 +8,7 @@ twitter_username: your_twitter_username
 github_username: yourusername
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minima
 
 plugins:
   - jekyll-feed
