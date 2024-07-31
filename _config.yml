@@ -1,0 +1,41 @@
+# Site settings
+title: "Aryan Solanki"
+description: "My personal portfolio website"
+url: "https://Aryan-IIT.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog
+author:
+  name: "Aryan Solanki"
+  email: "illogicalaryan@gmail.com"
+  github: "Aryan-IIT"
+  linkedin: "aryan-solanki-ai"
+
+# Theme settings
+theme: jekyll-theme-cayman
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation
+nav:
+  - home: /
+  - about: /about
+  - projects: /projects
+  - blog: /blog
+  - contact: /contact
+
+# Social links
+social:
+  github: "https://github.com/Aryan-IIT"
+  linkedin: "https://www.linkedin.com/in/aryan-solanki-ai/"
+
+logo: "/assets/images/logo.png"
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks
+permalink: /:categories/:title/
