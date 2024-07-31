@@ -9,22 +9,24 @@ I like to read, write and explore science, technology and philosophy. I spent my
 ## Work Experience
 
 ### Data Science Intern, Mobileware Technologies
-**AWS Bedrock, Generative AI and Machine Learning**
+AWS Bedrock, Generative AI and Machine Learning
+
 * Ventured to design and implement a Retrieval-based (RAG) real-time chat agent to facilitate conversational interactions for financial transactions and researched approaches to address latency in error troubleshooting for financial logs.
 * Conducted in-depth research on large language models (LLMs) and explored the work of technical service providers at the intersection of finance and generative AI (GenAI).
 
 ## Projects 
 
 ### Data Narratives and Explorations
-[https://github.com/Aryan-IIT/Data-Narratives-and-Explorations](https://github.com/Aryan-IIT/Data-Narratives-and-Explorations)
-Probability, Statistics and Data Visualisations
-March 2024 - May 2024
+[Porject Link](https://github.com/Aryan-IIT/Data-Narratives-and-Explorations)
+
+Probability, Statistics and Data Visualisations | March 2024 - May 2024
 
 * Developed proficiency in data visualization, utilizing Python libraries including **Numpy, Pandas, Matplotlib, and Seaborn** to create various **2-D and 3-D graphs such as scatter plots, bar plots, histograms**.
 * Conducted an exploration of a dataset comprising ATP Tennis Matches from 2000 to 2024, formulating and solving 10 non-trivial problems via code.
 
 ### Applied Probability on Python
-[https://github.com/Aryan-IIT/ES-114-PSDV](https://github.com/Aryan-IIT/ES-114-PSDV)
+[Project Link](https://github.com/Aryan-IIT/ES-114-PSDV)
+
 Course Project | Prof. Shanmuganathan Raman | IIT Gandhinagar
 January 2024 - April 2024
 
@@ -32,7 +34,8 @@ January 2024 - April 2024
 * Utilized techniques such as **dimensionality reduction, PCA, and correlation coefficient calculation**.
 
 ### Laser Based Communication System
-[https://github.com/Aryan-IIT/ES-116-Course-Project](https://github.com/Aryan-IIT/ES-116-Course-Project)
+[Project Link](https://github.com/Aryan-IIT/ES-116-Course-Project)
+
 Course Project | Prof. Arup Lal Chakraborty | IIT Gandhinagar
 February 2024 - April 2024
 
@@ -40,7 +43,8 @@ February 2024 - April 2024
 * Continuously developed Arduino code, system design, and practical implementation throughout the project.
 
 ### Motion Speak -- A glove based solution for sign language interpretation
-[https://drive.google.com/file/d/1XsixTzGGRKCGHqn-cSgvYlM2YRWCnKjZ/view?usp=sharing](https://drive.google.com/file/d/1XsixTzGGRKCGHqn-cSgvYlM2YRWCnKjZ/view?usp=sharing)
+[Project Link](https://drive.google.com/file/d/1XsixTzGGRKCGHqn-cSgvYlM2YRWCnKjZ/view?usp=sharing)
+
 Course Project | Prof. Himanshu Shekhar | IIT Gandhinagar
 August 2023 - Nov 2023
 
@@ -48,7 +52,8 @@ August 2023 - Nov 2023
 * I contributed towards ideation, research and led the overall product pitch. This project presented a smart assistance glove using sensors to help individuals with speech and motor impairments by translating hand gestures into speech in real time.
 
 ### Commercial Hovercraft - A Computer Aided Design Project
-[https://youtu.be/BmLoMJDTwEM](https://youtu.be/BmLoMJDTwEM)
+[Project Link](https://youtu.be/BmLoMJDTwEM)
+
 Course Project | Prof. Sameer Patel | IIT Gandhinagar
 August 2023 - Nov 2023
 
