@@ -7,9 +7,9 @@ I'm currently deeply invested in machine learning, data science and analytics. I
 I like to read, write and explore science, technology and philosophy. I spent my summer break as a Data Science Intern at [Mobileware Technologies](https://mobilewaretech.com/).
 Presently, I am serving as the Finance and Admin Coordinator at my college’s Technical Summit, Amalthea. I enjoy playing the drums and swimming in my free time.
 
-## Work 
+## Work Experience
 
-# Data Science Intern, Mobileware Technologies
+### Data Science Intern, Mobileware Technologies
 **AWS Bedrock, Generative AI and Machine Learning**
 * Ventured to design and implement a Retrieval-based (RAG) real-time chat agent to facilitate conversational interactions for financial transactions and researched approaches to address latency in error troubleshooting for financial logs.
 * Conducted in-depth research on large language models (LLMs) and explored the work of technical service providers at the intersection of finance and generative AI (GenAI).
