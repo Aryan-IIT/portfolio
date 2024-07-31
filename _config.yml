@@ -1,41 +1,17 @@
-# Site settings
-title: "Aryan Solanki"
-description: "My personal portfolio website"
-url: "https://Aryan-IIT.github.io"
+title: My Portfolio
+email: your.email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my personal portfolio website where I showcase my projects, internships, and essays.
 baseurl: "" # the subpath of your site, e.g. /blog
-author:
-  name: "Aryan Solanki"
-  email: "illogicalaryan@gmail.com"
-  github: "Aryan-IIT"
-  linkedin: "aryan-solanki-ai"
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+twitter_username: your_twitter_username
+github_username: yourusername
 
-# Theme settings
-theme: jekyll-theme-cayman
+markdown: kramdown
+theme: minima
 
-# Plugins
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
-# Navigation
-nav:
-  - home: /
-  - about: /about
-  - projects: /projects
-  - blog: /blog
-  - contact: /contact
-
-# Social links
-social:
-  github: "https://github.com/Aryan-IIT"
-  linkedin: "https://www.linkedin.com/in/aryan-solanki-ai/"
-
-logo: "/assets/images/logo.png"
-
-# Markdown settings
+# Build settings
 markdown: kramdown
-highlighter: rouge
-
-# Permalinks
-permalink: /:categories/:title/
