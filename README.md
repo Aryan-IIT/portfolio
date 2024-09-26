@@ -2,9 +2,11 @@
 
 ### Hello, I’m Aryan Solanki. I’m a computer science undergrad.
 
-I'm currently deeply invested in machine learning, data science, and analytics. I am an Artificial Intelligence Major at the Indian Institute of Technology, Gandhinagar.
+I'm currently deeply invested in machine learning, data science, and analytics. I am an Artificial Intelligence Major at the Indian Institute of Technology, Gandhinagar. 
 
-I like to read, write, and explore science, technology, and philosophy. I spent my summer break as a Data Science Intern at [Mobileware Technologies](https://mobilewaretech.com/). Presently, I am serving as the Finance and Admin Coordinator at my college’s Technical Summit, Amalthea. I enjoy playing the drums and swimming in my free time.
+Sometimes I am late to update this portfolio website, in that case, please mail me at [Email](mailto:illogicalaryan@gmail.com) to get my resume.
+
+I like to read, write, and explore science, technology, and philosophy. I spent my summer break as a Data Science Intern at [86400 (Previously Mobileware Technologies)](https://mobilewaretech.com/). Presently, I am serving as the Finance and Admin Coordinator at my college’s Technical Summit, Amalthea. I enjoy playing the drums and swimming in my free time.
 
 ## Work Experience
 
