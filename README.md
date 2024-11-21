@@ -1,6 +1,7 @@
 # My Portfolio
 
-### Hello, I’m Aryan Solanki. I’m a computer science undergrad.
+### Hello, I’m Aryan Solanki. I’m a computer science undergrad. 
+### [This page is not updated, please reach out to me at illogicalaryan@gmail.com for my current resume]
 
 I'm currently deeply invested in machine learning, data science, and analytics. I am an Artificial Intelligence Major at the Indian Institute of Technology, Gandhinagar. 
 
